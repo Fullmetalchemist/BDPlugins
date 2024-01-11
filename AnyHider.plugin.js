@@ -1,4 +1,11 @@
-// META { "name": "AnyHider", "website": "https://github.com/Fullmetalchemist/BDPlugins" } //
+/**
+ * @name AnyHider
+ * @description Hide specific elements in Discord with a context menu option.
+ * @version 1.0.0
+ * @author Fullmetalchemist
+ * @source https://github.com/Fullmetalchemist/BDPlugins/blob/main/AnyHider.plugin.js
+ */
+
 global.HideElementPlugin = class HideElementPlugin {
     getName() {
         return "Hide Element Plugin";
