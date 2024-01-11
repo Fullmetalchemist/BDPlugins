@@ -1,4 +1,4 @@
-// META { "name": "HideElementPlugin", "website": "https://github.com/your-username/HideElementPlugin" } //
+// META { "name": "AnyHider", "website": "https://github.com/Fullmetalchemist/BDPlugins" } //
 global.HideElementPlugin = class HideElementPlugin {
     getName() {
         return "Hide Element Plugin";
